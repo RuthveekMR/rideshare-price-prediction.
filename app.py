@@ -3,11 +3,11 @@ import pandas as pd
 import numpy as np
 import joblib
 
-# Load trained CatBoost model
-model = joblib.load("catboost_fare_model.pkl")
+# Drive direct download link
+url = "https://drive.google.com/uc?id=1ChqFR9EjX8ajos805cPR6dB4haBN_cTn"
 
-# Load dataset to extract unique values
-df = pd.read_csv("cab_rides.csv")
+# Read CSV from Google Drive
+df = pd.read_csv(url)
 
 # Extract unique values
 unique_cab_types = df['name'].unique().tolist()
