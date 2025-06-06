@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import joblib
+import MinMaxScaler
 
 # Drive direct download link
 url = "https://drive.google.com/uc?id=1ChqFR9EjX8ajos805cPR6dB4haBN_cTn"
