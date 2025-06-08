@@ -6,6 +6,9 @@ import joblib
 # Drive direct download link
 url = "https://drive.google.com/uc?id=1ChqFR9EjX8ajos805cPR6dB4haBN_cTn"
 
+# Load the model from joblib
+model = joblib.load("catboost_fare_model.pkl")
+
 # Read CSV from Google Drive
 df = pd.read_csv(url)
 
