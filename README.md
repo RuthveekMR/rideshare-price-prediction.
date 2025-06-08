@@ -98,7 +98,7 @@ The interface automatically scales distance and applies surge multiplier based o
 
 ### ☁️ 4. Learning: Need for Cloud Resources
 - Attempted larger experiments taught me that **local machine capacity is a serious limitation**.
-- Motivated me to explore **GCP, AWS, Colab Pro** for future large-scale ML work.
+- Motivated me to explore **GCP / AWS** for future large-scale ML work.
 
 ---
 
