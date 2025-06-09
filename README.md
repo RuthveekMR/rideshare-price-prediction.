@@ -121,3 +121,48 @@ The interface automatically scales distance and applies surge multiplier based o
 
 ## 🗂 Project Structure
 
+├── app.py # Streamlit app
+├── catboost_fare_model.pkl # Trained CatBoost model
+├── ML_Taxi_Fare_Prediction (3) (1).ipynb # Jupyter Notebook with full training pipeline
+├── requirements.txt # List of required Python packages
+├── scaler.joblib # Saved MinMaxScaler (temporary — to be removed later)
+├── README.md # Project documentation (this file)
+└── Ruthveek_ML_Rideshare_Price_Prediction_Report.pdf # Detailed project report
+
+---
+
+🚀 Live App
+
+👉 [Click here to try the Rideshare Price Prediction App!](https://rideshare-price-prediction-afhvgrse6snhgbusecldfs.streamlit.app/)
+
+---
+
+🚀 Future Work
+
+- Revisit **weather feature integration** with better time alignment and feature engineering.
+- Add **real-time traffic and weather APIs** to enhance predictions.
+- Extend model to **multiple cities** to test generalization.
+- Explore **stacked ensemble models** for further accuracy gains.
+- Optimize app performance by pre-saving distance_df, surge_df, and unique lists → faster app.
+
+---
+
+🧑‍💻 Author
+
+**Ruthveek M R**  
+Department of Data Science & Computer Applications  
+MIT Manipal (2027 Batch)  
+Email: [ruthmys123@gmail.com](mailto:ruthmys123@gmail.com)
+
+---
+
+🤝 Acknowledgements
+
+- Dataset Source: [Kaggle - Uber and Lyft Cab Prices](https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices)  
+- Libraries: Pandas, NumPy, Scikit-learn, XGBoost, CatBoost, Streamlit, Seaborn, Matplotlib
+
+---
+
+*"The best machine learning models come from a blend of experimentation, business understanding, and creativity."* 🚀
+
+
