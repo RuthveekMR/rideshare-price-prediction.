@@ -124,11 +124,17 @@ The interface automatically scales distance and applies surge multiplier based o
 ## 🗂 Project Structure
 
 ├── app.py # Streamlit app
+
 ├── catboost_fare_model.pkl # Trained CatBoost model
+
 ├── ML_Taxi_Fare_Prediction (3) (1).ipynb # Jupyter Notebook with full training pipeline
+
 ├── requirements.txt # List of required Python packages
+
 ├── scaler.joblib # Saved MinMaxScaler (temporary — to be removed later)
+
 ├── README.md # Project documentation (this file)
+
 └── Ruthveek_ML_Rideshare_Price_Prediction_Report.pdf # Detailed project report
 
 ---
