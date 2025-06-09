@@ -163,6 +163,6 @@ Email: [ruthmys123@gmail.com](mailto:ruthmys123@gmail.com)
 
 ---
 
-*"The best machine learning models come from a blend of experimentation, business understanding, and creativity."* 🚀
+*"Through this project, I gained hands-on experience in building a complete ML pipeline — from perfect data preprocessing to model tuning and deployment, while learning to overcome practical limitations along the way."* 🚀
 
 
