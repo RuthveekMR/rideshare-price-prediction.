@@ -162,6 +162,7 @@ Email: [ruthmys123@gmail.com](mailto:ruthmys123@gmail.com)
 
 - Dataset Source: [Kaggle - Uber and Lyft Cab Prices](https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices)  
 - Libraries: Pandas, NumPy, Scikit-learn, XGBoost, CatBoost, Streamlit, Seaborn, Matplotlib
+
 *"This project also helped me explore practical trade-offs between working within local hardware limitations and leveraging cloud-based platforms to scale and deploy machine learning workflows."*
 
 ---
