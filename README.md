@@ -3,6 +3,14 @@
 
 ![Uber & Lyft](https://img.shields.io/badge/Machine%20Learning-Regression-blue) ![Streamlit](https://img.shields.io/badge/UI-Streamlit-green) ![Models](https://img.shields.io/badge/Best%20Model-CatBoost-orange)
 
+---
+
+🚀 Live App
+
+👉 [Click here to try the Rideshare Price Prediction App!](https://rideshare-price-prediction-afhvgrse6snhgbusecldfs.streamlit.app/)
+
+---
+
 ## 📌 Project Overview
 
 This project tackles the challenge of **accurately predicting rideshare prices** for Uber and Lyft services in **Boston, MA**. Using a machine learning pipeline, I analyzed historical ride data to develop a predictive model that allows users to **estimate ride prices based on ride configurations**.
@@ -130,12 +138,6 @@ The interface automatically scales distance and applies surge multiplier based o
 ├── scaler.joblib # Saved MinMaxScaler (temporary — to be removed later)
 ├── README.md # Project documentation (this file)
 └── Ruthveek_ML_Rideshare_Price_Prediction_Report.pdf # Detailed project report
-
----
-
-🚀 Live App
-
-👉 [Click here to try the Rideshare Price Prediction App!](https://rideshare-price-prediction-afhvgrse6snhgbusecldfs.streamlit.app/)
 
 ---
 
